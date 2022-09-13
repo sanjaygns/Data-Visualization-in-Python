@@ -1,4 +1,4 @@
-# data_visualization_LJMU_IIIT_Project
+# data_visualization
 
 This is the project done on analysing and visualizing Bank data on loan application.
 
